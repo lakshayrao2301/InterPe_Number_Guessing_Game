@@ -2,7 +2,7 @@
 * Number Guessing game is designed using Html, CSS and JavaScript.
 * The game proceeds as the system generates a random number between 1 and 50 and the user must guess the number right.
 * Every time the user attempts, the system says whether the number is greater,lesser or exactly equal to the guessed number.
-* Link:-
+* Link:- https://lakshayrao2301.github.io/InterPe_Number_Guessing_Game/
 ## Description
 * The Number Guessing Game is a simple web-based game where the player has to guess a randomly generated number within a certain range.
 * The game provides hints to the player, guiding them to find the correct number. 
